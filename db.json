@@ -1,0 +1,131 @@
+{
+	"products": [
+		{
+			"id": "1",
+			"idCategory": "1",
+			"idSubCategory": "1",
+			"name": "hero Product",
+			"desc_short": "Lorem ipsum dolor sit amet",
+			"price": "99",
+			"desc_long": "OMG This just came out today!",
+			"nbImages": "3",
+			"tags": "bleu"
+		}, {
+			"id": "2",
+			"idCategory": "1",
+			"idSubCategory": "3",
+			"name": "hero Product",
+			"desc_short": "Lorem ipsum dolor sit amet",
+			"price": "99",
+			"desc_long": "OMG This just came out today!",
+			"nbImages": "3",
+			"tags": "rouge"
+		}, {
+			"id": "3",
+			"idCategory": "2",
+			"idSubCategory": "1",
+			"name": "hero Product",
+			"desc_short": "Lorem ipsum dolor sit amet",
+			"price": "99",
+			"desc_long": "OMG This just came out today!",
+			"nbImages": "3",
+			"tags": "rouge"
+		}, {
+			"id": "4",
+			"idCategory": "2",
+			"idSubCategory": "3",
+			"name": "hero Product",
+			"desc_short": "Lorem ipsum dolor sit amet",
+			"price": "99",
+			"desc_long": "OMG This just came out today!",
+			"nbImages": "3",
+			"tags": "rouge"
+		}, {
+			"id": "5",
+			"idCategory": "3",
+			"idSubCategory": "2",
+			"name": "hero Product",
+			"desc_short": "Lorem ipsum dolor sit amet",
+			"price": "99",
+			"desc_long": "OMG This just came out today!",
+			"nbImages": "3",
+			"tags": "rouge"
+		}, {
+			"id": "6",
+			"idCategory": "3",
+			"idSubCategory": "5",
+			"name": "hero Product",
+			"desc_short": "Lorem ipsum dolor sit amet",
+			"price": "99",
+			"desc_long": "OMG This just came out today!",
+			"nbImages": "3",
+			"tags": "rouge"
+		}, {
+			"id": "7",
+			"idCategory": "4",
+			"idSubCategory": "1",
+			"name": "hero Product",
+			"desc_short": "Lorem ipsum dolor sit amet",
+			"price": "99",
+			"desc_long": "OMG This just came out today!",
+			"nbImages": "3",
+			"tags": "rouge"
+		}, {
+			"id": "7",
+			"idCategory": "4",
+			"idSubCategory": "6",
+			"name": "hero Product",
+			"desc_short": "Lorem ipsum dolor sit amet",
+			"price": "99",
+			"desc_long": "OMG This just came out today!",
+			"nbImages": "3",
+			"tags": "rouge"
+		}
+	],
+	"categories": [
+		{
+			"id": "1",
+			"name": "Homme",
+			"imgPrefix": "homme"
+		}, {
+			"id": "2",
+			"name": "Femme",
+			"imgPrefix": "femme"
+		}, {
+			"id": "3",
+			"name": "Garçon",
+			"imgPrefix": "garcon"
+		}, {
+			"id": "4",
+			"name": "Fille",
+			"imgPrefix": "fille"
+		}
+	],
+	"subcategories": [
+		{
+			"id": "1",
+			"name": "T-Shirt",
+			"imgPrefix": "ts"
+		}, {
+			"id": "2",
+			"name": "Polo",
+			"imgPrefix": "polo"
+		}, {
+			"id": "3",
+			"name": "Pull",
+			"imgPrefix": "pull"
+		}, {
+			"id": "4",
+			"name": "Débardeur",
+			"imgPrefix": "debardeur"
+		}, {
+			"id": "5",
+			"name": "Pantalon",
+			"imgPrefix": "pantalon"
+		}, {
+			"id": "6",
+			"name": "Robe",
+			"imgPrefix": "robe"
+		}
+	]
+}
