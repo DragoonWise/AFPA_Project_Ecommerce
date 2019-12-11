@@ -100,8 +100,8 @@
 			"desc_short": "Ses personnages préférés sur son t-shirt !",
 			"price": "3.5",
 			"desc_long": "- T-shirt en jersey en coton 'Disney'<br>- Col rond<br>- Manches courtes<br>- Imprimé 'Donald'",
-			"nbImages": "3",
-			"tags": "rouge"
+			"nbImages": "2",
+			"tags": "color-bleu style-image"
 		}, {
 			"id": "23",
 			"idCategory": "3",
